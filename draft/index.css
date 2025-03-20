@@ -11,7 +11,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
-    padding: 0;
+    padding: 0 20px;
 }
 
 .budget{
@@ -21,7 +21,7 @@ body {
 }
 
 table {
-    width: 90%;
+    width: 100%;
     max-width: 600px;
     margin: auto;
     border-collapse: collapse;
@@ -120,7 +120,7 @@ td:first-child {
         width: 60px;
         height: 60px;
     }
-    .ad_box{
+    /* .ad_box{
         padding: 0 15px;
-    }
+    } */
 }
