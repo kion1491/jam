@@ -35,6 +35,10 @@ td {
     text-align: center;
 }
 
+td:first-child {
+    padding: 0 5px;
+}
+
 .player-container {
     cursor: pointer;
     background-color: #f0f0f0;
