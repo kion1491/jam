@@ -94,6 +94,10 @@ td {
     display: block;
 }
 
+.selected-players .select-box > span{
+    color: #bbb;
+}
+
 .ad_box{
     margin-top: 20px;
     display: flex;
@@ -111,5 +115,8 @@ td {
     .player-container img{
         width: 60px;
         height: 60px;
+    }
+    .ad_box{
+        padding: 0 15px;
     }
 }
